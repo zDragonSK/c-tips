@@ -1,2 +1,2 @@
 # Sobre
-*Diversas coisas para armazenar e fazer backup entre meus dispositivos.*
+*Dicas úteis de C que eu faço e posto.*
